@@ -5,3 +5,4 @@ All the files for building a 50 cm (~20 inch) stylish RGB infinity Mirror with c
 ![Infinity Mirror](https://github.com/APTechnologies/InfinityMirror/blob/main/IMG_2.jpg)
 ![Infinity Mirror](https://github.com/APTechnologies/InfinityMirror/blob/main/IMG_5.jpg)
 ![Infinity Mirror](https://github.com/APTechnologies/InfinityMirror/blob/main/IMG_4.jpg)
+![Infinity Mirror](https://github.com/APTechnologies/Infinity_Mirror/blob/main/Schematic.JPG)
